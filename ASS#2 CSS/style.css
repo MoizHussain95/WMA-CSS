@@ -1,0 +1,28 @@
+
+
+  h1{
+    text-align: center;
+    color:purple;
+background-color: white;}
+ 
+.poetry{
+    text-align: right;
+    font-size: 22px;
+    padding: 40px;
+}
+
+.font{
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+h2{
+  
+    font-family: "Noto Nastaliq Urdu", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: right;
+    font-size: 40px;
+  }
