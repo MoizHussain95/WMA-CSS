@@ -1,0 +1,716 @@
+
+.container{
+    display: flex;
+    height: 130px;
+}
+.left{
+
+  height: 100px;
+  width: 378.66px;
+  padding-top: 45px;
+  text-align:left;
+}
+.left a{
+  color: black;
+  font-style: italic;
+  font-size: 18px;
+  padding-left: 200px;
+}
+
+.right{
+
+    height: 100px;
+    width: 378.66px;
+    text-align: left;
+    padding-top: 45px;
+  
+
+  
+  
+  }
+  .right a{
+    
+  color: black;
+  font-style: italic;
+  font-size: 18px;
+  padding-right: 200px;
+  
+  
+  }
+    .orange{
+    color: orange;
+    padding-left: 60px;
+  }
+  .h1{
+    width: 378.66px;
+    text-align: center;
+    padding-right: 20px;
+
+  }
+  
+  .line{
+    height: 50px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+
+    
+  }
+
+.line ul li{
+    display: inline;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    padding: 2px;
+    padding-left: 15px;
+
+}
+.contant{
+  display: flex;
+  align-content: center;
+  width: 1200px;
+  height: 720px;
+  padding-left: 75px;
+  
+}
+
+.breakingnews{
+  width: 140px;
+  background-color: red;
+  color: white;
+}
+.statement{
+  width: 502px;
+  font-size: 30px;
+  font-weight: bold;
+
+}
+
+.box1{
+  width: 557px;
+  
+}
+.statement p{
+  font-size: 25px;
+}
+.box2{
+  
+  width: 500px;
+  padding-left: 60px;
+}
+.para{
+  width: 250px;
+  font-size: 22px;
+  font-weight: bold;
+  
+}
+.bgohar{
+  
+  display: flex;
+  border-bottom: 1px solid black;
+  height: 120px;
+  width: 355px;
+}
+.image{
+  height: 80px;
+  width: 100px;
+  padding-top: 20px;
+}
+
+.cipher{
+  
+  display: flex;
+  border-bottom: 1px solid black;
+  height: 120px;
+  width: 355px;
+}
+.p2{
+  width: 200px;
+  font-size: 22px;
+  font-weight: bold;
+  padding-top: 10px;
+}
+.image2{
+  height: 80px;
+  width: 100px;
+  padding-top: 20px;
+  padding-left: 50px;
+  
+}
+.sister{
+  display: flex;
+  border-bottom: 1px solid black;
+  height: 140px;
+  align-content: center;
+  width: 355px;
+
+}
+.p3{ 
+  width: 240px;
+  font-size: 22px;
+  font-weight: bold;
+}
+.image3{
+  height: 80px;
+  width: 100px;
+  padding-top: 30px;
+  padding-left: 10px;
+}
+.imran{
+  display: flex;
+  height: 120px;
+  width: 355px;
+}
+.image4{
+  height: 80px;
+  width: 100px;
+  padding-top: 20px;
+  padding-left: 50px;
+
+
+  
+}
+.p4{
+  width: 200px;
+  font-size: 22px;
+  font-weight: bold;
+  padding-top: 10px;
+}
+.points{
+  height: 400px;
+  width: 400px;
+  display: flex;
+  padding-top: 20px;
+  
+}
+.points ul{
+
+  font-size: 20px;
+  font-weight: bold;
+  padding: 0;
+  
+}
+.points ul li::marker{
+  color: darkgreen;
+}
+.contant2{
+  display: flex;
+  padding-left: 65px;
+}
+.box3{
+  display: block;
+}
+span{
+  background-color: red;
+  color: white;
+}
+.live{
+  font-size: 18px;
+}
+.election{
+  display: flex;
+  width:300px;
+}
+.dark{
+  width: 250px;
+  font-size: 25px;
+  font-weight: bold;
+  
+}
+.elimage{
+  width: 140px;
+  /* padding-bottom: 20px; */
+  padding-top: 20px;
+}
+.light{
+  width: 150px;
+  font-weight: lighter;
+  font-size: 18px;
+  
+
+}
+.paki{
+  font-size: 17px;
+  
+}
+.sp2{
+color:rgb(25, 102, 118);
+background-color: white;
+
+
+}
+
+.dark2{
+  width: 250px;
+  font-size: 25px;
+  font-weight: bold
+  
+}
+.rainimage{
+  width: 140px;
+  padding-top: 20px;
+}
+.light2{
+  width: 150px;
+  font-weight: lighter;
+  font-size: 18px;
+}
+.light2 p{
+  width: 130px;
+}
+
+.area{
+  display: flex;
+  width:300px;
+}
+.dark3{
+  width: 250px;
+  font-size: 25px;
+  font-weight: bold
+  
+}
+.nepraimage{
+  width: 140px;
+  padding-top: 20px;
+}
+.light3{
+  width: 150px;
+  font-weight: lighter;
+  font-size: 18px;
+}
+.light3 p{
+  width: 130px;
+}
+.nepra{
+  display: flex;
+  width:300px;
+}
+
+.dark4{
+  width: 250px;
+  font-size: 25px;
+  font-weight: bold
+  
+}
+.shahbazimg{
+  width: 140px;
+  padding-top: 20px;
+}
+.light4{
+  width: 150px;
+  font-weight: lighter;
+  font-size: 18px;
+}
+.light4 p{
+  width: 130px;
+}
+.shahbaz{
+  display: flex;
+  width:300px;
+  padding-bottom: 30px;
+}
+.paki2{
+  font-size: 17px;
+}
+.paki3{
+  font-size: 17px;
+}
+.paki4{
+  display: flex;
+  width:300px;
+  font-size: 17px;
+}
+.dark5{
+  width: 250px;
+  font-size: 25px;
+  font-weight: bold
+  
+}
+.alizafarimg{
+  width: 140px;
+  padding-top: 20px;
+}
+.light5{
+  width: 150px;
+  font-weight: lighter;
+  font-size: 18px;
+}
+.light5 p{
+  width: 130px;
+  
+}
+.alizafar{
+  display: flex;
+  width:300px;
+}
+.box3{
+  width:320px;
+  /* height: 700px; */
+}
+.box4{
+width: 450px;
+
+}
+.stat{
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+.square{
+  border: 1px solid black;
+  height: 580px;
+  border-radius: 2%;
+}
+.pmd{
+  width:200px;
+  font-size: 18px;
+  padding-left: 20px;
+  padding-top: 15px;
+  font-weight: bold;
+
+
+}
+.pmd p{
+  margin: 0;
+  width: 170px;
+  padding-left: 10px;
+}
+.psl{
+  width:200px;
+  font-size: 18px;
+  padding-left: 24px;
+  padding-top: 15px;
+  font-weight: bold;
+
+
+}
+.psl p{
+  margin: 0;
+  width:170px;
+  padding-left: 10px;
+}
+.top1{
+  display: flex;
+}
+.willrain{
+  width:200px;
+  font-size: 20px;
+  padding-left: 18px;
+  padding-top: 15px;
+  font-weight: bold;
+
+
+}
+.willrain p{
+  margin: 0;
+  width: 170px;
+  padding-left: 10px;
+}
+.justice{
+  width:200px;
+  font-size: 18px;
+  padding-left: 24px;
+  padding-top: 15px;
+  font-weight: bold;
+
+
+}
+.justice p{
+  margin: 0;
+  width: 170px;
+  padding-left: 10px;
+}
+.top2{
+  display: flex;
+}
+
+.whathappen{
+  width:200px;
+  font-size: 18px;
+  padding-left: 20px;
+  padding-top: 15px;
+  font-weight: bold;
+
+
+}
+.whathappen p{
+  margin: 0;
+  width: 170px;
+  padding-left: 10px;
+}
+.firstfilm{
+  width:200px;
+  font-size: 18px;
+  padding-left: 24px;
+  padding-top: 15px;
+  font-weight: bold;
+
+
+}
+.firstfilm p{
+  margin: 0;
+  width:170px;
+  padding-left: 10px;
+}
+.top3{
+  display: flex;
+}
+.box5{
+  padding-left: 20px;
+}
+.square2{
+width: 200px;
+height: 1245px;
+border: 1px solid black;
+border-radius: 20px;
+
+}
+.h2{
+  font-size: 25px;
+  padding-left: 5px;
+  padding-left: 9px;
+  margin: 0%;
+  height: 35px;
+}
+.wahab{
+  border: 1px solid black;
+  height: 200px;
+  border-left: none;
+  border-right: none;
+  width: 420px;
+  display: flex;
+  height: 200px;
+}
+.wahabriaz{
+  padding-top: 50px;
+  padding-left: 20px;
+  
+}
+.wahabimg img{
+  border-radius:50%;
+}
+.wahabimg{
+  padding-top: 50px;
+}
+.wpara{
+  padding-top: 30px;
+  padding-left: 10px;
+  font-size: 18px;
+  text-align: center;
+}
+.square2 pre{
+  margin: 0%;
+  
+}
+.points2{
+  padding-top: 20px;
+  width:200px;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.items{
+  width: 180px;
+  padding-left: 10px;
+  
+
+}
+.recap{
+  padding-top: 40px;
+  display: flex;
+  font-size: 25px;
+  padding-left: 10PX;
+
+}
+
+.aajtv{
+  color: black;
+  background-color: white;
+  padding-top: 0px;
+
+}
+.lastbox{
+  display: flex;
+  padding-top: 18px;
+  padding-left: 22px;
+}
+.batsymbol{
+  width:200px;
+}
+.batsymbol p{
+  width:180px;
+  margin: 0;
+  
+}
+.vaccine{
+  width:200px;
+  padding-left: 30px;
+}
+.vaccine p{
+  width:180px;
+  margin: 0;
+  
+}
+.map2{
+  padding-top: 50px;
+
+}
+
+.hepititas{
+  width: 145px;
+  
+
+}
+.hepititas p {
+  text-align: center;
+  width: 132px;
+  font-size: 18px;
+  font-weight: 550;
+  margin: 0;
+}
+.crown{
+  width: 145px;
+  padding-left: 20px;
+}
+.crown p{
+  text-align: center;
+  width: 132px;
+  font-size: 18px;
+  font-weight: 550;
+  margin: 0;
+}
+.solarrisng{
+  width: 145px;
+  padding-left: 20px;
+}
+.solarrisng p{
+  text-align: center;
+  width: 132px;
+  font-size: 18px;
+  font-weight: 550;
+  margin: 0;
+}
+.con1{
+  display: flex;
+  margin: 0;
+}
+.lastheaders{
+  display: flex;
+
+}
+.lastboxes{
+  display: flex;
+}
+.internet{
+  width: 145px;
+  
+
+}
+.internet p {
+  text-align: center;
+  width: 132px;
+  font-size: 18px;
+  font-weight: 550;
+  margin: 0;
+}
+.pta{
+  width: 145px;
+  padding-left: 20px;
+}
+.pta p{
+  text-align: center;
+  width: 132px;
+  font-size: 18px;
+  font-weight: 550;
+  margin: 0;
+}
+.tiktok{
+  width: 145px;
+  padding-left: 20px;
+}
+.tiktok p{
+  text-align: center;
+  width: 132px;
+  font-size: 18px;
+  font-weight: 550;
+  margin: 0;
+}
+.con2{
+  display: flex;
+  padding-left: 70px;
+}
+.heading2{
+  padding-left: 400px;
+}
+.pictures{
+  display: flex;
+  padding-left: 120px;
+  padding-top: 25px;
+  height: 60px;
+}
+.pic2{
+  padding-left: 4px;
+}
+.pic3{
+  padding-left: 4px;
+}.pic4{
+  padding-left: 4px;
+}
+.pic5{
+  padding-left: 4px;
+}
+.footer{
+  display: flex;
+  height: 60px;
+}
+.lists{
+  display: flex;
+  padding-top: 30px;
+  padding-left: 30px;
+  font-size: 15px;
+  height: 60px;
+}
+.list2{
+  padding-left: 15px;
+
+}
+.list3{
+  padding-left: 15px;
+
+}.list4{
+  padding-left: 15px;
+
+}.list5{
+  padding-left: 15px;
+
+}.list6{
+  padding-left: 15px;
+
+}
+.list7{
+  padding-left: 15px;
+
+}
+.list8{
+  padding-left: 15px;
+
+}
+.list9{
+  padding-left: 15px;
+
+}
+a{
+  color: black;
+  text-decoration: none;
+}
+.copyright{
+  padding-left: 120px;
+  font-size: 12px;
+  color: gray;
+  height: 200px;
+
+}
+.endcontainer{
+  padding-left: 58px;
+}
